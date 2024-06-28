@@ -1,5 +1,5 @@
 import java.util.*;
-public class greaterNumber{
+public class greater_Number{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Entre First number : ");
