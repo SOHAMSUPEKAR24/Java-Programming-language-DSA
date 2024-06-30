@@ -1,4 +1,4 @@
-public class Print_HW{
+public class Print_HW_10times{
     public static void main(String args[]){
         int counter = 1;
         do { 
